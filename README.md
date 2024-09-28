@@ -12,10 +12,7 @@ The **Championship History Tracker** is an application designed to track and man
 - **User-Friendly Interface**: Intuitive design for seamless navigation.
 
 ## Technologies Used
-
-- **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB
+ - **Technology Used**: Python
 - **Version Control**: Git and GitHub
 
 ## Installation
